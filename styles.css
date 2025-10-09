@@ -1,9 +1,0 @@
-
-body { font-family: Arial, sans-serif; margin: 0; background: #fafafa; color: #333; }
-header { background: #0078D7; color: #fff; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; }
-header a { color: #fff; text-decoration: none; margin: 0 8px; }
-header a:hover { text-decoration: underline; }
-main { padding: 20px; max-width: 900px; margin: auto; }
-.profile { width: 160px; border-radius: 50%; display: block; margin: 10px auto; }
-footer { text-align: center; padding: 10px; background: #f0f0f0; margin-top: 30px; font-size: 14px; }
-[contenteditable="true"]:hover { outline: 1px dashed #999; background: #eef; }
